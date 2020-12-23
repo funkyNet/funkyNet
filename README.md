@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on finding and mangling various containers, hoping to glue 'em together to give training or coworkers on security (container and not)
+
+funkySwarm project to follow inspiration from work / Security-Onion and build a swarm only Network security monitoring tool, FOSS/no-cost tooling only. 
+Additionally to create a playground version of funkySwarm that will simulate live networks/provide pcap upload for users to test/learn
+
 
 <!--
 **funkyNet/funkyNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
