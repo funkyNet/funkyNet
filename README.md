@@ -19,3 +19,4 @@ I hope for it to serve multiple purposes
 
 ## Github Stats
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=funkyNet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funkyNet)](https://github.com/anuraghazra/github-readme-stats)
