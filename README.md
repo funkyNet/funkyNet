@@ -28,4 +28,5 @@ I hope for it to serve multiple purposes
 
 ## External Resources
 Wiki (Please understand this is where the majority of WIP exists, expect mess and constant changes)
+
 https://funky-lab.atlassian.net/wiki/spaces/FUN/overview?homepageId=596279488
