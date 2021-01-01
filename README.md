@@ -18,4 +18,4 @@ I hope for it to serve multiple purposes
 - Challenge to SecOnion (Can I fully containerize similar capabilities in a more efficient, more manageable manner?)
 
 ## Github Stats
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=funkyNet)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=funkyNet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
