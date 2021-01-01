@@ -1,21 +1,21 @@
-### Hi there 👋
-🔭 I’m currently working on finding and mangling various containers, hoping to glue 'em together to create training for coworkers on security (container and not)
-
-funkySwarm project to follow inspiration from work / Security-Onion and build a swarm only Network security monitoring tool, FOSS/no-cost tooling only. 
-Additionally to create a playground version of funkySwarm that will simulate live networks/provide pcap upload for users to test/learn
+### Heyo 👋
+I'm an experienced endpoint and infrastructure security engineer.
+I've recently discovered a strong passion for docker and automation, and am working towards developing a training environment to help assist my coworkers in various tools.
 
 
-<!--
-**funkyNet/funkyNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+funkySwarm project to follow inspiration from work / Security-Onion and build a swarm only Network security monitoring tool, FOSS / no-cost / trial tooling only. 
+I hope for it to serve multiple purposes
+- training environment
+-- network simulation
+-- test data repositories for matching data between users
+-- Tool walkthroughs and familiarization
+- Multiple deployment methods
+-- Multi VM
+-- Single host
+-- AWS Deployments
+- Challenge to SecOnion (Can I fully containerize similar capabilities in a more efficient, more manageable manner?)
+
+## Github Stats
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=funkyNet)](https://github.com/anuraghazra/github-readme-stats)
