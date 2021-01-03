@@ -15,7 +15,7 @@ I hope for it to serve multiple purposes
   - Multi VM
   - Single host
   - AWS Deployments
-- Challenge to SecOnion (Can I...)
+- Challenge to SecOnion and other FOSS NSMs (Can I...)
   - Fully containerize similar capabilities 
   - More efficient 
   - More manageable
