@@ -1,10 +1,17 @@
 ### Heyo 👋
-I'm an experienced endpoint and infrastructure security engineer.
-I've recently discovered a strong passion for docker and automation, and am working towards developing a training environment to help assist my coworkers in various tools.
+I'm an experienced security analyst, engineer, architect!
+I've discovered a strong passion for docker and automation, and am working towards developing a training environment to help assist my coworkers in various tools. Also I thought naming everything funkySomething was quite entertaining, err, funkyFun?
 
 
+funkyWorld is my current pet project. The overarching goal being similar to my deprecated funkySwarm project, but at the same time, a repo for my own learning and tinkering.
+Current Objectives
+  - How to capture plans, notes, priority (in gitlab?)
+  - Investigate K8s, KubeVirt?, how can I automate a containerized virtual environment, a 1 stop playground!
+  - mimic some training material faux environments as a starter
+  - Expand into standardized processes of introducing new tooling (base environment? ninite style pick 'n choose?)
 
 
+funkySwarm is an old project I had attempted to make an improved Security-Onion, which of course became quite humbling followed by more focus on work.
 funkySwarm project to follow inspiration from work / Security-Onion and build a swarm only Network security monitoring tool, FOSS / no-cost / trial tooling only. 
 I hope for it to serve multiple purposes
   - training environment
