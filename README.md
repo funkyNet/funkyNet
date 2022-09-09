@@ -3,7 +3,6 @@ I'm an experienced security analyst, engineer, architect!
 I've discovered a strong passion for docker and automation, and am working towards developing a training environment to help assist my coworkers in various tools. Also I thought naming everything funkySomething was quite entertaining, err, funkyFun?
 
 
-funkyWorld is my current pet project. The overarching goal being similar to my deprecated funkySwarm project, but at the same time, a repo for my own learning and tinkering.
 Current Objectives
   - How to capture plans, notes, priority (in gitlab?)
   - Investigate K8s, KubeVirt?, how can I automate a containerized virtual environment, a 1 stop playground!
@@ -33,7 +32,4 @@ I hope for it to serve multiple purposes
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funkyNet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## External Resources
-Wiki (Please understand this is where the majority of WIP exists, expect mess and constant changes)
 
-https://funky-lab.atlassian.net/wiki/spaces/FUN/overview?homepageId=596279488
